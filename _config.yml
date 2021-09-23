@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: You got pranked! Whoever sent this to you wanted to say that you are cute XD
 
 # Your name to show in the footer
-author: Some Person
+author: the one and only
 
 # --- List of links in the navigation bar --- #
 
@@ -39,20 +39,17 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "eliaswromero@gmail.com" for business inquiries
+  github: eliaswromero
+  twitter: romeroelias_
+  instagram: 3liasromero
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+snapchat: elro_3
+spotify: eliaswromero
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -75,6 +72,7 @@ share-links-active:
   facebook: true
   linkedin: true
   vk: false
+  instagram: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
