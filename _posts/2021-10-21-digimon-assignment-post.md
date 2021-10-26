@@ -1,6 +1,14 @@
 # Digimon: Lab 1 Reflection  
 ![](../assets/img/digimon-adventure-tri.jpg)
 
+---
+layout: post
+title: Lab 1 reflection
+cover-img: ../assets/img/digimon-adventure-tri.jpg
+gh-repo: eliaswromero/eliaswromero.github.io
+comments: true
+---
+
 ## Question:
 Describe your process in finding these answers. Include details such as who you worked with, what methods you tried, what worked or didn’t work, what could have gone better, and what you learned during this lab. Feel free to attach images, screenshots, pseudocode, etc to elaborate on your response!
 
