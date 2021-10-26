@@ -1,5 +1,4 @@
-# Digimon: Lab 1 Reflection  
-![](../assets/img/digimon-adventure-tri.jpg)
+
 
 ---
 layout: post
