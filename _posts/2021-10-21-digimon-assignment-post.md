@@ -1,3 +1,13 @@
+---
+layout: post
+title: Digimon Lab 1 Reflection
+cover-img: ../assets/img/digimon-adventure-tri.jpg
+thumbnail-img: ../assets/img/digimon-adventure-tri.jpg
+share-img: /assets/img/path.jpg
+tags: [books, test]
+---
+
+
 # Digimon: Lab 1 Reflection  
 ![](../assets/img/digimon-adventure-tri.jpg)
 
