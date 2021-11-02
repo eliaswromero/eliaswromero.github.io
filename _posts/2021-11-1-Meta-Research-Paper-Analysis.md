@@ -33,9 +33,11 @@ These scientists use the data to claim that there are less native bee species wh
 
 
 ### How was this study funded?
-
+While it doesn't explicitly say anywhere in the paper where the study was funded, it mentions that that this study was part of a larger research paper to be published elsewhere, so I assume that funding came from the broader resource that funded the larger paper. However, it does not provide any links or info about the larger resource paper which leaves us in the dark.
 
 
 ### Do you think publish or perish had an effect on this study?
+I believe that publish or perish did not have an effect on this specific study, because upon further research, both Sparrow and Goulson have published many other articles before this one on honeybee and pollination-related topics, so I don't think there was a lot of urgency and pressure to publish this article.
+
 
 
